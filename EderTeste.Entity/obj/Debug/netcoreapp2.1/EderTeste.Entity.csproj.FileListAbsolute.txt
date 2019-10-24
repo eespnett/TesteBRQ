@@ -1,0 +1,4 @@
+C:\TesteBRQ\WebApplication1\EderTeste.Entity\obj\Debug\netcoreapp2.1\EderTeste.Entity.csprojAssemblyReference.cache
+C:\TesteBRQ\WebApplication1\EderTeste.Entity\obj\Debug\netcoreapp2.1\EderTeste.Entity.csproj.CoreCompileInputs.cache
+C:\TesteBRQ\WebApplication1\EderTeste.Entity\obj\Debug\netcoreapp2.1\EderTeste.Entity.AssemblyInfoInputs.cache
+C:\TesteBRQ\WebApplication1\EderTeste.Entity\obj\Debug\netcoreapp2.1\EderTeste.Entity.AssemblyInfo.cs

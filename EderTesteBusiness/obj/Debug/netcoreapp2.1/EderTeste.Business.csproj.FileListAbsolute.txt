@@ -1,0 +1,4 @@
+C:\TesteBRQ\WebApplication1\EderTesteBusiness\obj\Debug\netcoreapp2.1\EderTeste.Business.csprojAssemblyReference.cache
+C:\TesteBRQ\WebApplication1\EderTesteBusiness\obj\Debug\netcoreapp2.1\EderTeste.Business.csproj.CoreCompileInputs.cache
+C:\TesteBRQ\WebApplication1\EderTesteBusiness\obj\Debug\netcoreapp2.1\EderTeste.Business.AssemblyInfoInputs.cache
+C:\TesteBRQ\WebApplication1\EderTesteBusiness\obj\Debug\netcoreapp2.1\EderTeste.Business.AssemblyInfo.cs
